@@ -14,11 +14,9 @@ I have chosen Georges Seurat's oil painting "A Sunday Afternoon on the Island of
 ---
 
 ## Coding Technique Exploration  
-For my project, I aim to digitally recreate this dotted artistic effect. This is the Connected Particles code in p5.js that I found. I believe this coding technique can serve as a reference to generate circular elements with random colors, thereby simulating the pointillism effect.
-
 [Link Text](https://p5js.org/examples//classes-and-objects-connected-particles/)
 
-This is the screenshot on partical system
+For my project, I aim to digitally recreate this dotted artistic effect. This is the Connected Particles code in p5.js that I found. I believe this coding technique can serve as a reference to generate circular elements with random colors, thereby simulating the pointillism effect.
 ![Sreenshot on partical system](sp250509_003824.png)  
 *The particle system on P5js*
 
