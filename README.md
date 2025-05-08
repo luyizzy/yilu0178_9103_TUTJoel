@@ -4,12 +4,10 @@
 
 ## Imaging Technique Inspiration
 [Generative Artwork:RE:BubbleChamber_4](https://p5js.org/examples//classes-and-objects-connected-particles/)
+
 I have chosen this generative artwork as my visual inspiration. This piece uses randomly generated bubbles and lines that continuously evolve over time, eventually forming a complete artwork.I believe this artwork demonstrates how simple shapes can be randomly combined to create new artistic compositions. For our project requirements, we need to generate animations based on provided artworks. This particular piece's approach perfectly aligns with our goal - it can systematically reinterpret and regenerate the original artwork's basic geometric elements.
 ![Sreenshot on final artwork](sp250509_010944.png)  
 *The Artwork*
-
-![Pointillism Detail](https://live.staticflickr.com/2548/3780114294_563d24947a_b.jpg)  
-*"A Sunday on La Grande Jatte—1984" Pointillism Detail*
 
 ---
 
