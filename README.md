@@ -3,10 +3,10 @@
 # Quiz 8
 
 ## Imaging Technique Inspiration
-I have chosen Georges Seurat's oil painting "A Sunday Afternoon on the Island of La Grande Jatte" as my creative inspiration. This artwork employs the Pointillism technique, constructing the complete image through countless small dots of varied colors.
-
-![The Sunday Afternoon on the Island of La Grande Jatte](https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/843,/0/default.jpg)  
-*"A Sunday on La Grande Jatte—1984"*
+[Generative Artwork:RE:BubbleChamber_4](https://p5js.org/examples//classes-and-objects-connected-particles/)
+I have chosen this generative artwork as my visual inspiration. This piece uses randomly generated bubbles and lines that continuously evolve over time, eventually forming a complete artwork.I believe this artwork demonstrates how simple shapes can be randomly combined to create new artistic compositions. For our project requirements, we need to generate animations based on provided artworks. This particular piece's approach perfectly aligns with our goal - it can systematically reinterpret and regenerate the original artwork's basic geometric elements.
+![Sreenshot on final artwork](sp250509_010944.png)  
+*The Artwork*
 
 ![Pointillism Detail](https://live.staticflickr.com/2548/3780114294_563d24947a_b.jpg)  
 *"A Sunday on La Grande Jatte—1984" Pointillism Detail*
@@ -14,9 +14,9 @@ I have chosen Georges Seurat's oil painting "A Sunday Afternoon on the Island of
 ---
 
 ## Coding Technique Exploration  
-[Link Text](https://p5js.org/examples//classes-and-objects-connected-particles/)
+[Reference coding](https://p5js.org/examples//classes-and-objects-connected-particles/)
 
-For my project, I aim to digitally recreate this dotted artistic effect. This is the Connected Particles code in p5.js that I found. I believe this coding technique can serve as a reference to generate circular elements with random colors, thereby simulating the pointillism effect.
+For my project, I aim to digitally recreate this dotted artistic effect. This is the Connected Particles code in p5.js that I found. I believe this coding technique can serve as a reference to generate circular elements with random colors, thereby simulating the same effect with artworks.
 ![Sreenshot on partical system](sp250509_003824.png)  
 *The particle system on P5js*
 
